@@ -1,4 +1,3 @@
-//get controller
 const ProductsModel =  require('../model/post_model')
 
 exports.showIndex = (req,res) =>{
